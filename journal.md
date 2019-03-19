@@ -21,3 +21,6 @@ the dominant growth mechanism.
 # Methodology
 We used a whizzbang tool to perform some sick data
 collection (King et al 1987).
+
+# Results
+Head banging as a result of exposure to heavy metals.
