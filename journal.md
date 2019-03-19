@@ -17,3 +17,7 @@ knowledge using Mass Spectrometry data (Allan et al
 # Simulations
 John's box model is consistent with coagulation as
 the dominant growth mechanism.
+
+# Methodology
+We used a whizzbang tool to perform some sick data
+collection (King et al 1987).
