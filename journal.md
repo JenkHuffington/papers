@@ -24,3 +24,6 @@ collection (King et al 1987).
 
 # Results
 Head banging as a result of exposure to heavy metals.
+
+# Figures
+This is a section for some badass metal album art.
