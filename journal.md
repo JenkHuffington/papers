@@ -27,3 +27,7 @@ Head banging as a result of exposure to heavy metals.
 
 # Figures
 This is a section for some badass metal album art.
+
+# Conclusion
+Changed the course of music as we know it, ultimately
+being killed by the rise of grunge.
