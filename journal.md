@@ -6,6 +6,9 @@ over West Africa
 Obergruppenfuhrer John Smith, University of Somewhere
 Jenk Huffington (The Third), University of Manchester
 
+# Abstract
+Something about metal being awesome.
+
 # Introduction
 BBOA are important for the radiative effect 
 but the magnitude and even direction are unclear 
